@@ -1,6 +1,7 @@
 <template>
   <div>
-    <h1>Welcome to the best dad joke site on planet earth.</h1>
+    <h1>About DadJokes</h1>
+    <p>This is THE site about fine dad jokes.</p>
   </div>
 </template>
 
@@ -8,7 +9,7 @@
 export default {
   head() {
     return {
-      title: "Welcome to dad jokes",
+      title: "About dad jokes",
       meta: [
         {
           hid: "description",
